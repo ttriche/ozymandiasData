@@ -1,0 +1,11 @@
+Package: ozymandiasData
+Version: 0.1
+Date: 2015-08-05
+Title: Example data for the `ozymandias` package
+Author: Tim Triche, Jr. <tim.triche@gmail.com>
+Maintainer: Tim Triche, Jr. <tim.triche@gmail.com>
+Description: Data from 5 450k samples and 5 27k samples 
+License: AGPL
+Depends: ozymandias, matrixStats
+biocViews: ExperimentData, Homo_sapiens_Data, DNAmethylation
+NeedsCompilation: no
